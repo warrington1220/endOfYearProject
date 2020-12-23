@@ -287,12 +287,16 @@
     }
   }
 
+.formInput::placeholder {
+    color: green;
+}
+
 .body {
-    background-color: lightcoral;
     height: 100%;
 }
 
 .formInput {
   width: 100%;
   padding-bottom: 5px;
+  background-color: whitesmoke;
 }
